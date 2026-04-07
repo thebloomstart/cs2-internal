@@ -1,0 +1,31 @@
+# Dependencies
+/dependencies/freetype/binary/*.lib
+
+# Build output
+/build/
+/intermediate/
+/bin/
+/bin-int/
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.db
+*.opendb
+*.sdf
+*.ipch
+
+# User-specific files
+/Documents/UNDERAGER_logs/
+*.log
+*.txt
+
+# Misc
+*.bak
+*.tmp
+*.temp
+.antigravityignore
